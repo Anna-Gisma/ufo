@@ -9,12 +9,3 @@ def UFO(N, data, octal):
         data1.append(el)
     return data1
         
-
-N = 2
-data = [1234, 1777]
-octal = False
-print(UFO(N, data, octal))
-    
- 
-    
-    
